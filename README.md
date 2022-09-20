@@ -8,7 +8,7 @@ Project aims to create Todo_list within html, css and js.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Guess_Number_Game](https://ugurcansarici.github.io/HTML-CSS-JS-Guess-Number-Game/)| Html Css Js |![Guess_Number_Game](Guess_Number.gif)
+[Number-Guess-Game](https://muratergon.github.io/HTML-CSS-JS-Number-Guess-Game/)| Html Css Js |![Number-Guess-Game](number_guess_gif.gif)
 
 
 ## Problem Statement
